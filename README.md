@@ -6,11 +6,9 @@
 
 This project is a personalized fork of Zvec focused on enhancements and custom development. Its goal is to build on the original vector search capabilities while exploring practical improvements for local vector retrieval.
 
-Current focus:
+Current focus and status:
 
-- Quantized vector storage for lower memory and disk usage.
-- Quantized index acceleration for faster retrieval.
-- Hybrid retrieval that combines vector search with structured filtering.
-- Retrieval quality comparison and validation across storage, indexing, and query strategies.
-
-Personalized development will mainly happen on `main`. A separate branch will be maintained for syncing changes from the original upstream project.
+- ⏳ Planned: Quantized vector storage for lower memory and disk usage.
+- ⏳ Planned: Quantized index acceleration for faster retrieval.
+- ⏳ Planned: Hybrid retrieval that combines vector search with structured filtering.
+- ⏳ Planned: Retrieval quality comparison and validation across storage, indexing, and query strategies.
